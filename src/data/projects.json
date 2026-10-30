@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "Resumely",
+    "description": "An AI-powered resume builder that lets users create, customize, and download professional resumes as PDF files.",
+    "image": "/images/projects/resumely.svg",
+    "technologies": ["React", "TypeScript", "Vite", "Tailwind CSS", "jsPDF"],
+    "github": "https://github.com/staticflux-adi/Resumely",
+    "live": "",
+    "sample": false
+  },
+  {
+    "id": 2,
+    "title": "AgriFlux",
+    "description": "An AI-powered Agricultural Market Intelligence and Dispatch Optimization platform that helps farmers choose the most profitable market using price prediction, weather analysis, transport cost estimation, and recommendation algorithms.",
+    "image": "/images/projects/agriflux.svg",
+    "technologies": ["React", "FastAPI", "Python", "Leaflet", "Machine Learning"],
+    "github": "https://github.com/staticflux-adi",
+    "live": "",
+    "sample": false
+  },
+  {
+    "id": 3,
+    "title": "Weather Forecast App",
+    "description": "A responsive weather application that displays real-time weather forecasts using an external weather API.",
+    "image": "/images/projects/weather-forecast.svg",
+    "technologies": ["React", "JavaScript", "REST API"],
+    "github": "https://github.com/staticflux-adi",
+    "live": "",
+    "sample": false
+  },
+  {
+    "id": 4,
+    "title": "Portfolio & Blog Hub",
+    "description": "This very website: a responsive portfolio with a searchable blog, light/dark theme, glassmorphism UI, and a validated contact form.",
+    "image": "/images/projects/portfolio-blog-hub.svg",
+    "technologies": ["React", "Vite", "React Router", "CSS"],
+    "github": "https://github.com/staticflux-adi",
+    "live": "",
+    "sample": false
+  },
+  {
+    "id": 5,
+    "title": "Task Manager",
+    "description": "A sample project card. A to-do app with add, edit, complete, and filter features that saves tasks in the browser. Replace this with your own project.",
+    "image": "/images/projects/task-manager.svg",
+    "technologies": ["React", "JavaScript", "LocalStorage"],
+    "github": "https://github.com/staticflux-adi",
+    "live": "",
+    "sample": true
+  },
+  {
+    "id": 6,
+    "title": "Quiz App",
+    "description": "A sample project card. A timed multiple-choice quiz with score tracking and a results summary. Replace this with your own project.",
+    "image": "/images/projects/quiz-app.svg",
+    "technologies": ["HTML5", "CSS3", "JavaScript"],
+    "github": "https://github.com/staticflux-adi",
+    "live": "",
+    "sample": true
+  }
+]

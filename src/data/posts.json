@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "title": "Understanding React Hooks from Scratch",
+    "category": "React",
+    "author": "Aditya",
+    "date": "2026-10-24",
+    "description": "A beginner-friendly walkthrough of useState and useEffect, with simple examples that show how function components remember values and react to change.",
+    "image": "/images/blog/post-1.svg",
+    "tags": ["React", "Hooks", "Beginners"],
+    "readTime": 6
+  },
+  {
+    "id": 2,
+    "title": "Lifting State Up: Sharing Data Between Components",
+    "category": "React",
+    "author": "Aditya",
+    "date": "2026-10-12",
+    "description": "Learn when two sibling components need the same data and how moving state to their closest parent keeps your UI predictable.",
+    "image": "/images/blog/post-2.svg",
+    "tags": ["React", "State", "Props"],
+    "readTime": 5
+  },
+  {
+    "id": 3,
+    "title": "Building Reusable Components in React",
+    "category": "React",
+    "author": "Aditya",
+    "date": "2026-09-30",
+    "description": "How to design small, flexible components with props so you write a button, card, or form once and use it everywhere.",
+    "image": "/images/blog/post-3.svg",
+    "tags": ["React", "Components", "Clean Code"],
+    "readTime": 7
+  },
+  {
+    "id": 4,
+    "title": "Promises vs async/await in JavaScript",
+    "category": "JavaScript",
+    "author": "Aditya",
+    "date": "2026-10-20",
+    "description": "Compare two ways of handling asynchronous code, see how error handling differs, and learn which style reads better in real projects.",
+    "image": "/images/blog/post-4.svg",
+    "tags": ["JavaScript", "Async", "ES6"],
+    "readTime": 8
+  },
+  {
+    "id": 5,
+    "title": "ES6 Features Every Beginner Should Know",
+    "category": "JavaScript",
+    "author": "Aditya",
+    "date": "2026-09-18",
+    "description": "Arrow functions, destructuring, template literals, spread, and modules: the modern syntax you will see in almost every codebase.",
+    "image": "/images/blog/post-5.svg",
+    "tags": ["JavaScript", "ES6", "Beginners"],
+    "readTime": 6
+  },
+  {
+    "id": 6,
+    "title": "Closures Explained with Everyday Examples",
+    "category": "JavaScript",
+    "author": "Aditya",
+    "date": "2026-08-27",
+    "description": "Closures sound scary but are simple once you see them as functions that remember where they were created. Practical examples included.",
+    "image": "/images/blog/post-6.svg",
+    "tags": ["JavaScript", "Closures", "Concepts"],
+    "readTime": 5
+  },
+  {
+    "id": 7,
+    "title": "Clean Code Habits for First-Year Students",
+    "category": "Programming",
+    "author": "Aditya",
+    "date": "2026-10-06",
+    "description": "Meaningful names, small functions, and honest comments: simple habits that make your code easier to read, test, and debug.",
+    "image": "/images/blog/post-7.svg",
+    "tags": ["Clean Code", "Best Practices", "Beginners"],
+    "readTime": 6
+  },
+  {
+    "id": 8,
+    "title": "How to Debug Like an Engineer",
+    "category": "Programming",
+    "author": "Aditya",
+    "date": "2026-08-09",
+    "description": "Stop guessing. Reproduce the bug, read the error, isolate the cause, and fix it with a repeatable debugging routine.",
+    "image": "/images/blog/post-8.svg",
+    "tags": ["Debugging", "Best Practices", "Problem Solving"],
+    "readTime": 7
+  },
+  {
+    "id": 9,
+    "title": "CSS Grid vs Flexbox: Which One Should You Use?",
+    "category": "CSS",
+    "author": "Aditya",
+    "date": "2026-09-08",
+    "description": "Flexbox lays out items in one dimension while Grid handles rows and columns together. See when each one shines with side-by-side examples.",
+    "image": "/images/blog/post-9.svg",
+    "tags": ["CSS", "Layout", "Responsive Design"],
+    "readTime": 6
+  },
+  {
+    "id": 10,
+    "title": "Creating Glassmorphism Cards with Pure CSS",
+    "category": "CSS",
+    "author": "Aditya",
+    "date": "2026-07-22",
+    "description": "Use backdrop-filter, translucent backgrounds, and soft borders to build frosted-glass cards, plus tips to keep text readable.",
+    "image": "/images/blog/post-10.svg",
+    "tags": ["CSS", "UI Design", "Glassmorphism"],
+    "readTime": 5
+  },
+  {
+    "id": 11,
+    "title": "What Happens When You Type a URL in the Browser?",
+    "category": "Technology",
+    "author": "Aditya",
+    "date": "2026-08-30",
+    "description": "Follow a request from the address bar through DNS, TCP, HTTP, and rendering to understand how the web works end to end.",
+    "image": "/images/blog/post-11.svg",
+    "tags": ["Web", "Networking", "Concepts"],
+    "readTime": 8
+  },
+  {
+    "id": 12,
+    "title": "Cloud Computing Basics for Student Developers",
+    "category": "Technology",
+    "author": "Aditya",
+    "date": "2026-07-05",
+    "description": "A gentle introduction to servers, storage, and deployment platforms, and how to publish your first project online for free.",
+    "image": "/images/blog/post-12.svg",
+    "tags": ["Cloud", "Deployment", "Beginners"],
+    "readTime": 7
+  }
+]

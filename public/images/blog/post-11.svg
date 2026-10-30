@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" role="img" aria-label="What Happens When You Type a URL in the Browser?">
+  <defs>
+    <linearGradient id="gp11" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0EA5E9" />
+      <stop offset="1" stop-color="#10B981" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="480" fill="url(#gp11)" />
+  <circle cx="663" cy="129" r="137" fill="rgba(255,255,255,0.14)" />
+  <circle cx="539" cy="393" r="93" fill="rgba(255,255,255,0.10)" />
+  <rect x="48" y="64" width="166" height="40" rx="20" fill="rgba(255,255,255,0.22)" />
+  <text x="66" y="91" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="600" fill="#fff">Technology</text>
+  <text x="48" y="230" font-family="Poppins, Arial, sans-serif" font-size="36" font-weight="700" fill="#fff">What Happens When You</text>
+  <text x="48" y="274" font-family="Poppins, Arial, sans-serif" font-size="36" font-weight="700" fill="#fff">Type a URL in the</text>
+  <text x="48" y="318" font-family="Poppins, Arial, sans-serif" font-size="36" font-weight="700" fill="#fff">Browser?</text>
+</svg>
